@@ -15,5 +15,7 @@ Public Module WebApiConfig
             routeTemplate:="api/{controller}/{id}",
             defaults:=New With {.id = RouteParameter.Optional}
         )
+
+        config.InitializeReceiveSlackWebHooks
     End Sub
 End Module

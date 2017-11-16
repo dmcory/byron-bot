@@ -9,6 +9,5 @@ Public Class WebApiApplication
         GlobalConfiguration.Configure(AddressOf WebApiConfig.Register)
         FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters)
         RouteConfig.RegisterRoutes(RouteTable.Routes)
-        BundleConfig.RegisterBundles(BundleTable.Bundles)
     End Sub
 End Class

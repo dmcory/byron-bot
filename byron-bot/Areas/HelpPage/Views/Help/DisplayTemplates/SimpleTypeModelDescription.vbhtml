@@ -1,3 +1,0 @@
-@Imports byron_bot.Areas.HelpPage.ModelDescriptions
-@ModelType SimpleTypeModelDescription
-@Model.Documentation
