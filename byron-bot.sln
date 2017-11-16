@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "byron-bot", "byron-bot\byron-bot.vbproj", "{67AAEEC2-15CE-4F13-B147-93530A882B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AAEEC2-15CE-4F13-B147-93530A882B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AAEEC2-15CE-4F13-B147-93530A882B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AAEEC2-15CE-4F13-B147-93530A882B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AAEEC2-15CE-4F13-B147-93530A882B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4745A8D0-2357-4689-96F9-E5AE60694C76}
+	EndGlobalSection
+EndGlobal
